@@ -1,4 +1,4 @@
-# COVID-19-ANALYSIS
+# COVID-19-ANALYSIS-USING PYTHON
 
 Project Title: Advanced Data Analysis with Python and Jupyter Notebook
 
