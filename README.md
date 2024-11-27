@@ -10,3 +10,6 @@ This project utilizes Python with Jupyter Notebook to perform advanced data anal
 2.[covid19_deaths_dataset.csv](https://github.com/user-attachments/files/17930746/covid19_deaths_dataset.csv)
 
 3.[worldwide_happiness_report.csv](https://github.com/user-attachments/files/17930747/worldwide_happiness_report.csv)
+
+The project explores the relationship between COVID-19 impacts and global happiness. 
+Several visualizations (PNG images) were generated as outputs to provide insights into the data.
