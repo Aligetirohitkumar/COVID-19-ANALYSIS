@@ -25,3 +25,12 @@ Several visualizations (PNG images) were generated as outputs to provide insight
 ![image](https://github.com/user-attachments/assets/5907ac57-d6e2-46b7-a6ee-5912e80c47a5)
 ![image](https://github.com/user-attachments/assets/d11eaf44-ac40-4851-aab6-203ca2a2e3d0)
 
+Key Deliverables:
+
+1.Data preprocessing and cleaning
+
+2.Exploratory Data Analysis (EDA)
+
+3.Visualizations to highlight trends and correlations
+
+4.Insights derived from the analysis
